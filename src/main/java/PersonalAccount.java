@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+public class PersonalAccount extends Account {
 
-public class PersonalAccount {
+
 }
