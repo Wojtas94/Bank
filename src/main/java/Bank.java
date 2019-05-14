@@ -6,7 +6,11 @@ public class Bank {
 
         ca.open("Aleksander", 22233, "stan");
 <<<<<<< HEAD
+<<<<<<< HEAD
         ca.toString();
+=======
+        ca.open("Aleksande33r", 22233, "stan");
+>>>>>>> develop
 =======
         ca.open("Aleksande33r", 22233, "stan");
 >>>>>>> develop

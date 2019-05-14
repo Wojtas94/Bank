@@ -48,6 +48,7 @@
       </file>
       <file pinned="false" current-in-tab="false">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -74,6 +75,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+=======
+>>>>>>> develop
 =======
 >>>>>>> develop
         <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -128,12 +131,15 @@
     </option>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1504" />
     <option name="y" value="38" />
     <option name="width" value="1612" />
     <option name="height" value="876" />
 =======
+=======
+>>>>>>> develop
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-17" />
     <option name="y" value="44" />
@@ -326,12 +332,17 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/MergeNames.java">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="255">
           <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#224#232#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+>>>>>>> develop
 =======
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
