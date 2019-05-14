@@ -33,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Account.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -47,6 +47,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -73,6 +74,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+=======
+>>>>>>> develop
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -124,11 +127,19 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1504" />
     <option name="y" value="38" />
     <option name="width" value="1612" />
     <option name="height" value="876" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-17" />
+    <option name="y" value="44" />
+    <option name="width" value="1480" />
+    <option name="height" value="743" />
+>>>>>>> develop
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -254,9 +265,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
     <entry file="file://$PROJECT_DIR$/Bank.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -316,12 +325,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MergeNames.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="255">
           <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#224#232#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+>>>>>>> develop
         </state>
       </provider>
     </entry>
