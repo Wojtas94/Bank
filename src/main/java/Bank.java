@@ -1,3 +1,5 @@
+import static javax.swing.text.html.HTML.Tag.HEAD;
+
 public class Bank {
 
     public static void main(String[] args) {
@@ -5,15 +7,12 @@ public class Bank {
         ca.depositOrWithdraw();
 
         ca.open("Aleksander", 22233, "stan");
-<<<<<<< HEAD
-<<<<<<< HEAD
         ca.toString();
-=======
+
         ca.open("Aleksande33r", 22233, "stan");
->>>>>>> develop
-=======
-        ca.open("Aleksande33r", 22233, "stan");
->>>>>>> develop
+        ca.open("wwww", 22233, "stan");
+
+
         PersonalAccount pa = new PersonalAccount();
         pa.downloadType();
         pa.downloadType();
