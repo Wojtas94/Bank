@@ -8,6 +8,7 @@ public class MergeNames {
     public static String[] uniqueNames(String[] names1, String[] names2) {
         int a = 0;
         int b = 0;
+        int x;
         Set<String> s = new HashSet<String>();
         for (int i = 0; i <names1.length ; i++) {
             for (int j = 0; j <names2.length ; j++) {
